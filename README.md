@@ -20,7 +20,6 @@ This project is a lightweight, responsive task management application designed f
 
 ## 🛠️ Built With
 
-*(Please update this section according to your actual tech stack)*
 - **Frontend:** React.js / JavaScript
 - **Styling:** Tailwind CSS / CSS
 - **Deployment:** Vercel
